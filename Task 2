@@ -15,4 +15,5 @@ if (sideOne > 0 && sideTwo > 0 && angle > 0) {
   Triangle perimeter: ${roundToTwo(+sideOne + +sideTwo + +sideThree)}`);
 } else {
   console.log('Invalid data');
+
 }
